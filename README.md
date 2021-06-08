@@ -28,6 +28,7 @@
 - [main main-content 스타일링](./Web_Front-end_Basic_Fastcampus/Chapter03/Chapter04_07)
 - [main side-content 마크업](./Web_Front-end_Basic_Fastcampus/Chapter03/Chapter04_08)
 - [main side-content 스타일링](./Web_Front-end_Basic_Fastcampus/Chapter03/Chapter04_09)
+- [footer 요소](./Web_Front-end_Basic_Fastcampus/Chapter03/Chapter04_10)
 
 #### 5. Git, Github
 
