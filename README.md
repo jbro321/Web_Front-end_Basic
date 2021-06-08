@@ -2,7 +2,18 @@
 
 #### 1. 기초
 
+- 인터넷의 역사
+- 웹의 동작 방식: 서버와 클라이언트
+- 웹의 동작 방식: HTTP
+- 개발자 도구 사용하기
+
 #### 2. 웹
+
+- 프론트엔드와 백엔드
+- HTML
+- CSS
+- JavaScript
+- Codepen.io 사용법, MDN, devdocs.io 검색엔진 추가
 
 #### 3. HTML, CSS (1)
 
@@ -32,7 +43,7 @@
 
 #### 5. Git, Github
 
-- [버전 관리 소개](./Web_Front-end_Basic_Fastcampus/Chapter03/Chapter05_01)
-- [git이 관리하는 세 영역: 작업 디렉터리, 스테이징 영역, 저장소](./Web_Front-end_Basic_Fastcampus/Chapter03/Chapter05_02)
-- [원격 저장소 이용하기: github](./Web_Front-end_Basic_Fastcampus/Chapter03/Chapter05_03)
-- [github pages 호스팅 사용해 보기](./Web_Front-end_Basic_Fastcampus/Chapter03/Chapter05_04)
+- 버전 관리 소개
+- git이 관리하는 세 영역: 작업 디렉터리, 스테이징 영역, 저장소
+- 원격 저장소 이용하기: github
+- github pages 호스팅 사용해 보기
